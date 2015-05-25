@@ -2,7 +2,7 @@
   fileMonitor.c
   by PCB
 
-  This program takes a relative or absolut path
+  This program takes a relative or absolute path
   and monitors it for changes
   The program ends if no changes occur for 10 seconds
 */
