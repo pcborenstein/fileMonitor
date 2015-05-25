@@ -9,13 +9,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/inotify.h>
-#include <sys/types.h>
-#include <sys/stat.h>
-#include <fcntl.h>
-#include <unistd.h>
 #include <sys/ioctl.h>
-#include <string.h>
 #include <sys/epoll.h>
+#include <unistd.h>
 
 #define TIME_OUT_MS 10000
 
